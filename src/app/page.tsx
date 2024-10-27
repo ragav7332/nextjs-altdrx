@@ -149,7 +149,7 @@ const Footer = () => {
           <div className="space-y-4">
             <img
               className="h-8 w-auto"
-              src="/api/placeholder/120/40"
+              src="altdrxlogo.png"
               alt="AltDRX Logo"
             />
             <p className="text-gray-400">
